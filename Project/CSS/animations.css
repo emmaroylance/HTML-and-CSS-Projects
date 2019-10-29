@@ -88,11 +88,11 @@
     cursor: pointer;
 }
 
-photo-overlay:hover {
+.photo-overlay:hover {
     opacity: 1;
 }
 
-photo img {
+.photo img {
     transition: transform .5s;
     transform-origin: 50% 50%;
 }
